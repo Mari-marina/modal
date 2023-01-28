@@ -1153,7 +1153,7 @@ a {
 }
 
 .modal_authorization_title {
-    border: none;
+    border-bottom: none;
 }
 
 .registration_block {
