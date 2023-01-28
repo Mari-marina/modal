@@ -1152,6 +1152,10 @@ a {
     }
 }
 
+.modal_authorization_title {
+    border: none;
+}
+
 .registration_block {
     margin-top: 50px;
 }
